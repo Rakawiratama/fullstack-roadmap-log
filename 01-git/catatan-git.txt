@@ -1,6 +1,9 @@
+Cara menggunakan Git dengan menggunakan terminal atau GUI (visual studio code).
+
 Git merupakan sistem kontrol terdistribusi untuk melacak perubahan kode sumber dalam pengembangan perangkat lunak.
 
 Git dikembangkan oleh Linus Torvalds pada Bulan April Tahun 2005 dan sekarang menjadi salah satu sistem kontrol terdistribusi terbaik di dunia.
 
 Dengan Git, pengembang dapat melakukan kolaborasi antar tim dengan mudah dan cepat tanpa adanya konflik dalam project yang sama.
+
 
